@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.77f1
+CRC: 3561288561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c26fe76f0b8a1dff4468802c93b238e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1e98f99ffffbdb3810126d88f0fdac38
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABRes/Json/ItemData.json
+Dependencies: []

@@ -1,0 +1,46 @@
+# Unity generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Generated AssetBundle output
+/AssetBundles/
+
+# Local backups
+/_xlua_backup_*/
+
+# Local Lua language-server output and helper binaries
+/EmmyLua/
+/Tools/EmmyLuaUnityCli/
+/Tools/EmmyLuaUnityCli.zip
+/Tools/GenEmmyApi/bin/
+/Tools/GenEmmyApi/obj/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

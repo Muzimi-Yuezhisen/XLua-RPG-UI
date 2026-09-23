@@ -1,0 +1,47 @@
+{
+    "runtime": {
+        "version": "Lua5.3",
+        "requirePattern": [
+            "?.lua",
+            "?/init.lua",
+            "Assets/Lua/?.lua",
+            "Assets/Lua/?/init.lua"
+        ]
+    },
+    "diagnostics": {
+        "globals": [
+            "CS",
+            "typeof",
+            "Json",
+            "json",
+            "Object",
+            "ABMgr",
+            "GameObject",
+            "Resources",
+            "Transform",
+            "RectTransform",
+            "TextAsset",
+            "SpriteAtlas",
+            "Vector3",
+            "Vector2",
+            "UI",
+            "Image",
+            "Text",
+            "Button",
+            "Toggle",
+            "ScrollRect",
+            "TMP_Text"
+        ]
+    },
+    "workspace": {
+        "library": [
+            "EmmyLua/Annotations"
+        ],
+        "ignoreDir": [
+            "Library",
+            "Temp",
+            "Logs",
+            "obj"
+        ]
+    }
+}
